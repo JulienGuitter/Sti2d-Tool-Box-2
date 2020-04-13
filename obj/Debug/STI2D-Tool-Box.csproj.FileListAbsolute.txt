@@ -1,0 +1,30 @@
+I:\visual studio\STI2D-Tool-Box\bin\Debug\STI2D-Tool-Box.exe.config
+I:\visual studio\STI2D-Tool-Box\bin\Debug\STI2D-Tool-Box.exe
+I:\visual studio\STI2D-Tool-Box\bin\Debug\STI2D-Tool-Box.pdb
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D-Tool-Box.csprojAssemblyReference.cache
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.Form1.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.Properties.Resources.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D-Tool-Box.csproj.GenerateResource.cache
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D-Tool-Box.exe
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D-Tool-Box.pdb
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.conversions.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.resistances.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.codecouleur.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.filtre.passeBas.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.filtre.passeBande.resources
+I:\visual studio\STI2D-Tool-Box\obj\Debug\STI2D_Tool_Box.filtre.passeHaut.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\bin\Debug\STI2D-Tool-Box.exe.config
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\bin\Debug\STI2D-Tool-Box.exe
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\bin\Debug\STI2D-Tool-Box.pdb
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D-Tool-Box.csprojAssemblyReference.cache
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.codecouleur.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.conversions.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.filtre.passeBande.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.filtre.passeBas.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.filtre.passeHaut.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.Form1.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.Properties.Resources.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D_Tool_Box.resistances.resources
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D-Tool-Box.csproj.GenerateResource.cache
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D-Tool-Box.exe
+I:\visual studio\tool box commun\Sti2d-Tool-Box-master\obj\Debug\STI2D-Tool-Box.pdb

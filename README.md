@@ -1,2 +1,2 @@
-# Sti2d-Tool-Box-2
-Voici notre tool box
+# Sti2d-Tool-Box
+Une boite a outil pour les STI2D
